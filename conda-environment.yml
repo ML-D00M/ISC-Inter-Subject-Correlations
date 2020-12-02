@@ -1,0 +1,7 @@
+name: inter-subject_correlation
+dependencies:
+  - python=3.7.7
+  - numpy=1.17.2
+  - scipy=1.3.1
+  - matplotlib=3.1.1
+  - conda-forge::mne=0.20.5
